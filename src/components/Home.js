@@ -46,19 +46,3 @@ const Home = (props) => {
   );
 };
 export { Home };
-
-/* <tr>
-  <th scope="row">1</th>
-  <td>Item 1</td>
-  <td>4</td>
-</tr>
-<tr>
-  <th scope="row">2</th>
-  <td>Item 2</td>
-  <td>3</td>
-</tr>
-<tr>
-  <th scope="row">3</th>
-  <td>Item 3</td>
-  <td>2</td> 
- </tr> */
